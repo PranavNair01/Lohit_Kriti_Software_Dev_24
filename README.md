@@ -212,6 +212,14 @@ REACT_APP_FRONTEND_URL
 
 -[@Aditya-1874](https://github.com/Aditya-1874)
 
+-[@DeepakPrajapati25](https://github.com/DeepakPrajapati25)
+
+-[@DakshArora](https://github.com/daksharora01)
+
+-[@DipeshKumar](https://github.com/Mysteriux)
+
+-[@ArushMathur](https://github.com/arushmathur)
+
 
 # Feedback
 
